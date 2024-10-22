@@ -92,7 +92,7 @@
 /* home page styling */
 #home {
   height: 100vh; 
-  background-image: url('../../../public/bgimg.jpg'); 
+  background-image: url('../../public/bgimg.jpg'); 
   background-size: cover; 
   background-position: center; 
   display: flex;
@@ -227,7 +227,7 @@ background: #081b29
   width: 25%;
   float: left;
   height: 500px; 
-  background-image: url('../../../public/myimg.jpeg'); 
+  background-image: url('../../public/myimg.jpeg'); 
   background-size: cover;
   background-position: center; 
   border-radius: 50%;
@@ -538,7 +538,7 @@ background: #081b29
   margin-top: 100px;
   margin-bottom: 30px;
   animation: Bouncing-edu-img 0.5s ease-in-out 0s infinite alternate both;
-  background-image: url('../../../public/myimg.jpeg'); 
+  background-image: url('../../public/myimg.jpeg');
   background-size: cover;
   width: 300px;
   height: 400px;
